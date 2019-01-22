@@ -24,9 +24,9 @@ export default () => (
         </ul>
 
         <ul className="sidenav grey lighten-2" id="mobile-menu">
-          <li><a href="#">Photos</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#photos">Photos</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </div>
     </nav>
