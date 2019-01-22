@@ -19,7 +19,7 @@ class App extends Component {
         <Parallax imgSrc={stars} imgAlt="stars" />
         <ContactForm />
         <Footer />
-      </div>
+      </div> 
     );
   }
 }

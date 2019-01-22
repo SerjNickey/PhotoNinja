@@ -20,18 +20,18 @@ export default () => (
           <div className="input-field">
             <i className="material-icons prefix">email</i>
             <input type="email" id="email" required />
-            <label for="email">Your Email</label>
+            <label htmlFor="email">Your Email</label>
           </div>
 
           <div className="input-field">
             <i className="material-icons prefix">message</i>
             <textarea id="message" className="materialize-textarea" required></textarea>
-            <label for="message">Your Message</label>
+            <label htmlFor="message">Your Message</label>
           </div>
 
           <div className="input-field">
             <input type="text" id="date" className="datepicker" required />
-            <label for="date">Choose a date you need me for...</label>
+            <label htmlFor="date">Choose a date you need me for...</label>
           </div>
 
           <div className="input-field">
